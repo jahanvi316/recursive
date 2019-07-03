@@ -1,5 +1,6 @@
 # recursive
 Recursive methods to solve multiplication of two integers and calculating squares from 1 to n
+CSC 1302
 
 Two Methods
 1. Multiply
